@@ -29,7 +29,7 @@ EXT_BINARIAS = {".png", ".jpg", ".jpeg", ".gif", ".pdf", ".ico", ".zip", ".woff"
 DOMINIOS_OK = (
     "example.com", "example.org", "example.net", "ejemplo.test", "ejemplo.example",
     "github.com", "raw.githubusercontent.com", "opensource.org", "apache.org",
-    "gnu.org", "choosealicense.com", "creativecommons.org", "spdx.org",
+    "gnu.org", "fsf.org", "choosealicense.com", "creativecommons.org", "spdx.org",
     "claude.com", "anthropic.com", "geminicli.com", "google.com",
     "gov.co", "wa.me", "api.whatsapp.com", "whatsapp.com",
 )
