@@ -1,0 +1,6 @@
+description = "Cambiar la marca activa"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/switch` tal como lo define `comandos/switch.md`.
+
+Argumentos: {{args}}
+"""

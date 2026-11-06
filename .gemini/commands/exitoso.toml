@@ -1,0 +1,6 @@
+description = "Guardar un mensaje que funcionó en modelos_exitosos.md"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/exitoso` tal como lo define `comandos/exitoso.md`.
+
+Argumentos: {{args}}
+"""

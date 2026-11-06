@@ -1,0 +1,7 @@
+---
+description: Definir quién firma y atiende los mensajes
+---
+
+Lee `AGENTS.md` y ejecuta el comando `/asesor` tal como lo define `comandos/asesor.md`.
+
+Argumentos: $ARGUMENTS

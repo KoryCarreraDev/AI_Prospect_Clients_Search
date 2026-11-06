@@ -107,6 +107,10 @@ def revisar_texto(nombre, texto, terminos, tels, hallazgos):
 
 
 def main():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
     ap = argparse.ArgumentParser()
     ap.add_argument("--terminos", help="archivo de términos prohibidos (fuera del repo)")
     ap.add_argument("--sin-git", action="store_true", help="no revisar el historial de git")

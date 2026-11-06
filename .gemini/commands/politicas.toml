@@ -1,0 +1,6 @@
+description = "Listar las políticas creadas (tipo, fecha, estado)"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/politicas` tal como lo define `comandos/politicas.md`.
+
+Argumentos: {{args}}
+"""

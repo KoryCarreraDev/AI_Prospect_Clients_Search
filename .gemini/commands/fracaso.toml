@@ -1,0 +1,6 @@
+description = "Guardar un mensaje que no funcionó en modelos_fracaso.md"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/fracaso` tal como lo define `comandos/fracaso.md`.
+
+Argumentos: {{args}}
+"""

@@ -1,0 +1,6 @@
+description = "Preparar el borrador de un prospecto (por id o nombre)"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/borrador` tal como lo define `comandos/borrador.md`.
+
+Argumentos: {{args}}
+"""

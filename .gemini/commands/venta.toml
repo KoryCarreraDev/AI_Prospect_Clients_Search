@@ -1,0 +1,6 @@
+description = "Registrar una venta y pasar el prospecto a cliente"
+prompt = """
+Lee `AGENTS.md` y ejecuta el comando `/venta` tal como lo define `comandos/venta.md`.
+
+Argumentos: {{args}}
+"""
