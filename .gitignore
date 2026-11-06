@@ -1,0 +1,16 @@
+# Datos y configuración de quien usa la herramienta: nunca se versionan.
+datos_usuario/*
+!datos_usuario/README.md
+!datos_usuario/.gitkeep
+config/*
+!config/README.md
+!config/.gitkeep
+
+# Listas de términos prohibidos para verificar_limpieza.py (se guardan fuera del repo).
+*.terminos.txt
+terminos_purgar*.txt
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
