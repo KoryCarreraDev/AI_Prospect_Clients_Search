@@ -103,7 +103,7 @@ Sin `--terminos` aplica solo reglas genéricas (correos, teléfonos y URLs que n
 
 ## Licencia
 
-Pendiente de elegir (ver `LICENSE`).
+GNU General Public License v3.0 o posterior (GPL-3.0-or-later). Ver `LICENSE`. Puedes usar, estudiar, modificar y compartir la herramienta; los derivados que distribuyas deben mantener la misma licencia.
 
 ## Cómo contribuir
 
